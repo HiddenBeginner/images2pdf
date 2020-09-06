@@ -1,0 +1,9 @@
+#folder
+input/
+output/
+.idea/
+.ipynb._checkpoints/
+
+#files
+*.ipynb
+*.pdf
